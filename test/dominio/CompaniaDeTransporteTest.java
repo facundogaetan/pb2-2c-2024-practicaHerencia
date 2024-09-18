@@ -9,6 +9,7 @@ public class CompaniaDeTransporteTest {
 		
 		//preparacion
 		CompaniaDeTransporte companiaDeTransporte = new CompaniaDeTransporte();
+		Vehiculo vehiculo = new Vehiculo("abc123", 1000.0d, 5);
 		//ejecucion
 		
 		//verificacion
